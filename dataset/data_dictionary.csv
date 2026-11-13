@@ -1,0 +1,38 @@
+table,rows,column,data_type,example_value
+daily_stock_snapshot,876800,snapshot_date,date/time,2025-04-01
+daily_stock_snapshot,876800,store_id,text,DS001
+daily_stock_snapshot,876800,sku_id,text,SKU01612
+daily_stock_snapshot,876800,closing_qty,number,87
+daily_stock_snapshot,876800,received_qty,number,0
+order_items,1163045,order_id,text,QK0000001
+order_items,1163045,sku_id,text,SKU00707
+order_items,1163045,qty,number,1
+order_items,1163045,mrp,number,461.0
+order_items,1163045,discount_pct,number,0.25
+order_items,1163045,fulfilled_flag,number,1
+orders,400600,order_id,text,QK0000001
+orders,400600,customer_id,text,C003022
+orders,400600,store_id,text,DS024
+orders,400600,order_ts,date/time,2025-04-01 00:18:16
+orders,400600,rider_id,text,R00144
+orders,400600,delivered_ts,date/time,2025-04-01 00:28:16
+orders,400600,promised_mins,number,15
+orders,400600,status,text,Delivered
+orders,400600,payment_mode,text,Cash on Delivery
+products,2500,sku_id,text,SKU00001
+products,2500,sku_name,text,Tata Namkeen Regular 500g
+products,2500,category,text,Snacks
+products,2500,sub_category,text,Namkeen
+products,2500,brand,text,Tata
+products,2500,mrp,number,277.0
+products,2500,shelf_life_days,number,120
+riders,1200,rider_id,text,R00001
+riders,1200,store_id,text,DS001
+riders,1200,join_date,date/time,2025-12-15
+riders,1200,shift,text,Morning
+riders,1200,vehicle_type,text,EV Scooter
+stores,40,store_id,text,DS001
+stores,40,city,text,Ahmedabad
+stores,40,zone,text,South
+stores,40,opening_date,date/time,2025-01-24
+stores,40,parent_hub_id,text,DS001
