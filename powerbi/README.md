@@ -10,7 +10,7 @@
 
 ### 1. Executive Overview Dashboard
 
-![Dashboard 1 - Executive Overview](images/dashboard/01-Executive-Overview.png)
+![Dashboard 1 - Executive Overview](../images/dashboard/01-Executive-Overview.png)
 
 #### Insights
 
@@ -26,7 +26,7 @@
 
 ### 2. Delivery Performance Dashboard
 
-![Dashboard 2 - Delivery Performance](images/dashboard/02-Delivery-Performance.png)
+![Dashboard 2 - Delivery Performance](../images/dashboard/02-Delivery-Performance.png)
 
 #### Insights
 
@@ -42,7 +42,7 @@
 
 ### 3. Revenue Leakage Dashboard
 
-![Dashboard 3 - Revenue Leakage](images/dashboard/03-Revenue-Leakage.png)
+![Dashboard 3 - Revenue Leakage](../images/dashboard/03-Revenue-Leakage.png)
 
 #### Insights
 
@@ -60,7 +60,7 @@
 
 ### 4. Customer Analysis Dashboard
 
-![Dashboard 4 - Customer Analysis](images/dashboard/04-Customer-Analysis.png)
+![Dashboard 4 - Customer Analysis](../images/dashboard/04-Customer-Analysis.png)
 
 #### Insights
 
